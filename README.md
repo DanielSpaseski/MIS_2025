@@ -18,3 +18,13 @@
 <img width="621" height="886" alt="Screenshot (462)" src="https://github.com/user-attachments/assets/7b174743-0d2d-436e-a684-5e82a4db9f77" />
 
 <img width="624" height="885" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/eedd10cd-37f0-4981-8433-2045ddc247c6" />
+
+
+# MIS Lab3
+<img width="1080" height="2400" alt="Screenshot_20251213_185758" src="https://github.com/user-attachments/assets/d60f0d36-23b4-4d45-bf59-3b992f08d634" />
+
+<img width="1080" height="2400" alt="Screenshot_20251213_185723" src="https://github.com/user-attachments/assets/f4195f2a-a4e4-49de-af07-fd55d107e235" />
+
+<img width="1080" height="2400" alt="Screenshot_20251213_192852 (1)" src="https://github.com/user-attachments/assets/0f31162a-43e4-4193-b3c2-aae95b2e5a35" />
+
+<img width="1080" height="2400" alt="Screenshot_20251213_185758 (1)" src="https://github.com/user-attachments/assets/0810bcb8-b432-4342-9837-22da8f0e242a" />
