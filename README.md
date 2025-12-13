@@ -27,4 +27,3 @@
 
 <img width="1080" height="2400" alt="Screenshot_20251213_192852 (1)" src="https://github.com/user-attachments/assets/0f31162a-43e4-4193-b3c2-aae95b2e5a35" />
 
-<img width="1080" height="2400" alt="Screenshot_20251213_185758 (1)" src="https://github.com/user-attachments/assets/0810bcb8-b432-4342-9837-22da8f0e242a" />
